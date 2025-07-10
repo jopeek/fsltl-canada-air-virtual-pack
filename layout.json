@@ -176,6 +176,31 @@
             "date": 133964775719579322
         },
         {
+            "path": "SimObjects/Airplanes/FSLTL_A359_CAN/aircraft.cfg",
+            "size": 906,
+            "date": 133966646050783154
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A359_CAN/model.CAN/model.CFG",
+            "size": 216,
+            "date": 133964775789743784
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A359_CAN/TEXTURE.CAN/FSPXA350900_T.PNG.DDS",
+            "size": 5592580,
+            "date": 133966646340894730
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A359_CAN/TEXTURE.CAN/FSPXA350900_T.PNG.DDS.json",
+            "size": 119,
+            "date": 133964775787985270
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A359_CAN/TEXTURE.CAN/texture.CFG",
+            "size": 44,
+            "date": 133964775787995822
+        },
+        {
             "path": "SimObjects/Airplanes/FSLTL_B737F_CAN/aircraft.cfg",
             "size": 914,
             "date": 133965840859514826
