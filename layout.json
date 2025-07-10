@@ -151,6 +151,31 @@
             "date": 133964775473492542
         },
         {
+            "path": "SimObjects/Airplanes/FSLTL_A343_CAN/aircraft.cfg",
+            "size": 913,
+            "date": 133966624138187820
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A343_CAN/model.CAN/model.cfg",
+            "size": 52,
+            "date": 133964775715154660
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A343_CAN/texture.CAN/texture.cfg",
+            "size": 46,
+            "date": 133964775719614392
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A343_CAN/texture.CAN/TFS_A343_T.PNG.dds",
+            "size": 5592580,
+            "date": 133966624530672768
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A343_CAN/texture.CAN/TFS_A343_T.PNG.dds.json",
+            "size": 103,
+            "date": 133964775719579322
+        },
+        {
             "path": "SimObjects/Airplanes/FSLTL_B737F_CAN/aircraft.cfg",
             "size": 914,
             "date": 133965840859514826
