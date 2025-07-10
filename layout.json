@@ -43,7 +43,7 @@
         {
             "path": "SimObjects/Airplanes/FSLTL_A30BF_CAN/texture.CAN/TFS_A30BF_GE_T.PNG.dds",
             "size": 5592580,
-            "date": 133966464144714958
+            "date": 133966478221547806
         },
         {
             "path": "SimObjects/Airplanes/FSLTL_A30BF_CAN/texture.CAN/TFS_A30BF_GE_T.PNG.dds.json",
@@ -124,6 +124,31 @@
             "path": "SimObjects/Airplanes/FSLTL_A321_CAN/texture.CAN/texture.cfg",
             "size": 46,
             "date": 133964774843846414
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A333_CAN/aircraft.cfg",
+            "size": 913,
+            "date": 133966476820799132
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A333_CAN/model.CAN/model.cfg",
+            "size": 58,
+            "date": 133964775471149108
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A333_CAN/texture.CAN/texture.cfg",
+            "size": 46,
+            "date": 133964775473502644
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A333_CAN/texture.CAN/TFS_A333_PW_T.PNG.dds",
+            "size": 5592580,
+            "date": 133966602123433962
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A333_CAN/texture.CAN/TFS_A333_PW_T.PNG.dds.json",
+            "size": 103,
+            "date": 133964775473492542
         },
         {
             "path": "SimObjects/Airplanes/FSLTL_B737F_CAN/aircraft.cfg",
