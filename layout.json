@@ -26,6 +26,31 @@
             "date": 133964773110168664
         },
         {
+            "path": "SimObjects/Airplanes/FSLTL_A30BF_CAN/aircraft.cfg",
+            "size": 912,
+            "date": 133966456302079300
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A30BF_CAN/model.CAN/model.cfg",
+            "size": 57,
+            "date": 133964773767588594
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A30BF_CAN/texture.CAN/texture.cfg",
+            "size": 47,
+            "date": 133964773769091818
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A30BF_CAN/texture.CAN/TFS_A30BF_GE_T.PNG.dds",
+            "size": 5592580,
+            "date": 133966464144714958
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A30BF_CAN/texture.CAN/TFS_A30BF_GE_T.PNG.dds.json",
+            "size": 103,
+            "date": 133964773769081800
+        },
+        {
             "path": "SimObjects/Airplanes/FSLTL_A319_CAN/aircraft.cfg",
             "size": 933,
             "date": 133966417762919452
