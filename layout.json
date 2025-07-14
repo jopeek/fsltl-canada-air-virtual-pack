@@ -459,6 +459,56 @@
             "path": "SimObjects/Airplanes/FSLTL_B789_CAN/texture.CAN/texture.CFG",
             "size": 46,
             "date": 133964779459015384
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_E170_CAN/aircraft.cfg",
+            "size": 928,
+            "date": 133970020899347032
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_E170_CAN/model.CAN/model.cfg",
+            "size": 51,
+            "date": 133964779894560134
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_E170_CAN/texture.CAN/E170.PNG.dds",
+            "size": 5592580,
+            "date": 133970021750544784
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_E170_CAN/texture.CAN/E170.PNG.dds.json",
+            "size": 103,
+            "date": 133964779897367200
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_E170_CAN/texture.CAN/texture.cfg",
+            "size": 46,
+            "date": 133964779897377456
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_E190_CAN/aircraft.cfg",
+            "size": 928,
+            "date": 133970025055378868
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_E190_CAN/model.CAN/model.cfg",
+            "size": 51,
+            "date": 133964779967536954
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_E190_CAN/texture.CAN/E190.PNG.dds",
+            "size": 5592580,
+            "date": 133970025371475158
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_E190_CAN/texture.CAN/E190.PNG.dds.json",
+            "size": 103,
+            "date": 133964779969302916
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_E190_CAN/texture.CAN/texture.cfg",
+            "size": 46,
+            "date": 133964779969352958
         }
     ]
 }
