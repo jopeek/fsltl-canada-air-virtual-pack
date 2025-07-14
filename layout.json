@@ -359,6 +359,31 @@
             "path": "SimObjects/Airplanes/FSLTL_B739_CAN/texture.CAN/texture.cfg",
             "size": 46,
             "date": 133964778372819752
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_B77LF_CAN/aircraft.cfg",
+            "size": 899,
+            "date": 133969883879632334
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_B77LF_CAN/model.CAN/model.cfg",
+            "size": 65,
+            "date": 133964779030442908
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_B77LF_CAN/texture.CAN/texture.cfg",
+            "size": 47,
+            "date": 133964779033011732
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_B77LF_CAN/texture.CAN/TFS_B772LRF_T.PNG.dds",
+            "size": 5592580,
+            "date": 133969884189766694
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_B77LF_CAN/texture.CAN/TFS_B772LRF_T.PNG.dds.json",
+            "size": 103,
+            "date": 133964779032981708
         }
     ]
 }
