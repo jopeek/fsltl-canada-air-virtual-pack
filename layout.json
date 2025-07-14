@@ -201,6 +201,41 @@
             "date": 133964775787995822
         },
         {
+            "path": "SimObjects/Airplanes/FSLTL_A388_CAN/aircraft.cfg",
+            "size": 1047,
+            "date": 133969828980691740
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A388_CAN/model.CAN/model.CFG",
+            "size": 61,
+            "date": 133964775954268158
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A388_CAN/texture.CAN/texture.CFG",
+            "size": 46,
+            "date": 133964775955552828
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A388_CAN/texture.CAN/TFS_A380_RR_A_PK.PNG.DDS",
+            "size": 5592580,
+            "date": 133969850871007986
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A388_CAN/texture.CAN/TFS_A380_RR_A_PK.PNG.DDS.json",
+            "size": 102,
+            "date": 133964775954956558
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A388_CAN/texture.CAN/TFS_A380_RR_B_PK.PNG.DDS",
+            "size": 5592580,
+            "date": 133969851115405510
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_A388_CAN/texture.CAN/TFS_A380_RR_B_PK.PNG.DDS.json",
+            "size": 102,
+            "date": 133964775955542688
+        },
+        {
             "path": "SimObjects/Airplanes/FSLTL_B737F_CAN/aircraft.cfg",
             "size": 914,
             "date": 133965840859514826
