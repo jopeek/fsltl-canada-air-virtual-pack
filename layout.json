@@ -434,6 +434,31 @@
             "path": "SimObjects/Airplanes/FSLTL_B788_CAN/texture.CAN/texture.cfg",
             "size": 46,
             "date": 133964779316948784
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_B789_CAN/aircraft.cfg",
+            "size": 904,
+            "date": 133969926390712602
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_B789_CAN/model.CAN/model.CFG",
+            "size": 59,
+            "date": 133964779454903342
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_B789_CAN/texture.CAN/FSPXB787_9GE_T.PNG.DDS",
+            "size": 5592580,
+            "date": 133969926681024714
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_B789_CAN/texture.CAN/FSPXB787_9GE_T.PNG.DDS.json",
+            "size": 103,
+            "date": 133964779459000976
+        },
+        {
+            "path": "SimObjects/Airplanes/FSLTL_B789_CAN/texture.CAN/texture.CFG",
+            "size": 46,
+            "date": 133964779459015384
         }
     ]
 }
