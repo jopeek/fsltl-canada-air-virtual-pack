@@ -1,6 +1,10 @@
 import os
+import sys
 import json
+import zipfile
 import configparser
+
+PACKAGE_NAME = "fsltl-canada-air-virtual-pack"
 
 def generate_vmr_file():
     """
@@ -84,10 +88,30 @@ layout_entries = {"content": content_entries}
 layout_file = open("layout.json", "w")
 json.dump(layout_entries, layout_file, indent=4)
 
-manifest_file = open("manifest.json", "r")
+layout_file.close()
 
-manifest_entries = json.load(manifest_file)
+with open("manifest.json", "r") as manifest_file:
+    manifest_entries = json.load(manifest_file)
 manifest_entries["total_package_size"] = str(total_package_size).zfill(20)
 
-manifest_file = open("manifest.json", "w")
-json.dump(manifest_entries, manifest_file, indent=4)
+with open("manifest.json", "w") as manifest_file:
+    json.dump(manifest_entries, manifest_file, indent=4)
+
+
+def build_zip():
+    """
+    Zip the package for a release as dist/fsltl-canada-air-virtual-pack.zip, with everything
+    inside a folder of that exact name: pilots unzip it straight into their Community folder,
+    and CAVacars 2 installs and updates it from the release.
+    """
+    os.makedirs("dist", exist_ok=True)
+    zip_path = os.path.join("dist", PACKAGE_NAME + ".zip")
+    files = ["manifest.json", "layout.json", "FSLTLCAV.vmr"] + [entry["path"] for entry in content_entries]
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
+        for path in files:
+            z.write(path, PACKAGE_NAME + "/" + path)
+    print(f"\n✓ Built {zip_path} ({os.path.getsize(zip_path) // (1024 * 1024)} MB, package {manifest_entries['package_version']})")
+
+
+if "--zip" in sys.argv:
+    build_zip()

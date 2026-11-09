@@ -11,6 +11,14 @@
 <ModelMatchRule CallsignPrefix="CAN" TypeCode="A388" ModelName="FSLTL_A388_Canada_Air_Virtual" /> 
 <ModelMatchRule CallsignPrefix="CAN" TypeCode="AT46" ModelName="FSLTL_OSP_AT46_Canada_Air_Virtual" /> 
 <ModelMatchRule CallsignPrefix="CAN" TypeCode="AT76" ModelName="FSLTL_OSP_AT76_Canada_Air_Virtual" /> 
+<ModelMatchRule CallsignPrefix="CAN" TypeCode="C208" ModelName="FSLTL_GA_C208_Canada_Air_Virtual" /> 
+<ModelMatchRule CallsignPrefix="CAN" TypeCode="B350" ModelName="FSLTL_GA_B350_Canada_Air_Virtual" /> 
+<ModelMatchRule CallsignPrefix="CAN" TypeCode="C172" ModelName="FSLTL_GA_C172_Canada_Air_Virtual" /> 
+<ModelMatchRule CallsignPrefix="CAN" TypeCode="C25C" ModelName="FSLTL_GA_C25C_Canada_Air_Virtual" /> 
+<ModelMatchRule CallsignPrefix="CAN" TypeCode="DA40" ModelName="FSLTL_GA_DA40_Canada_Air_Virtual" /> 
+<ModelMatchRule CallsignPrefix="CAN" TypeCode="DA62" ModelName="FSLTL_GA_DA62_Canada_Air_Virtual" /> 
+<ModelMatchRule CallsignPrefix="CAN" TypeCode="BE36" ModelName="FSLTL_GA_BE36_Canada_Air_Virtual" /> 
+<ModelMatchRule CallsignPrefix="CAN" TypeCode="TBM9" ModelName="FSLTL_GA_TBM9_Canada_Air_Virtual" /> 
 <ModelMatchRule CallsignPrefix="CAN" TypeCode="B737" ModelName="FSLTL_FAIB_B737F_Canada_Air_Virtual" /> 
 <ModelMatchRule CallsignPrefix="CAN" TypeCode="B737" ModelName="FSLTL_FAIB_B737_Canada_Air_Virtual" /> 
 <ModelMatchRule CallsignPrefix="CAN" TypeCode="B738" ModelName="FSLTL_FAIB_B738F_Canada_Air_Virtual" /> 
